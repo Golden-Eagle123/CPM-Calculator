@@ -1,4 +1,4 @@
-const CACHE = "cpm-v1";
+const CACHE = "cpm-v2";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./sw.js"];
 
 self.addEventListener("install", (e) => {
